@@ -8,7 +8,7 @@ Compare byte budgets for Ed25519, secp256k1, BLS, and one-time signatures.
 
 - Source: https://github.com/nirholas/signature-scheme-lab
 - Primary language: HTML
-- License: Other (see the LICENSE file)
+- License: MIT (see the LICENSE file)
 
 ## Repository layout
 
